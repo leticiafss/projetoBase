@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace HelperStockBeta.Application.DTOs
 {
-    internal class ProductDTO
+    public class ProductDTO
     {
         public int Id { get; set; }
 

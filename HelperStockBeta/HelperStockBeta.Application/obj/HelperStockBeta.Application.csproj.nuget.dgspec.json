@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj": {}
+    "C:\\repositorie\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj": {}
   },
   "projects": {
-    "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj": {
+    "C:\\repositorie\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj",
+        "projectUniqueName": "C:\\repositorie\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj",
         "projectName": "HelperStockBeta.Application",
-        "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj",
-        "packagesPath": "C:\\Users\\victor.icoma\\.nuget\\packages\\",
-        "outputPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\obj\\",
+        "projectPath": "C:\\repositorie\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\HelperStockBeta.Application.csproj",
+        "packagesPath": "C:\\Users\\AlunoDSM\\.nuget\\packages\\",
+        "outputPath": "C:\\repositorie\\projetoBase\\HelperStockBeta\\HelperStockBeta.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\victor.icoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AlunoDSM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
-                "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
+              "C:\\repositorie\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
+                "projectPath": "C:\\repositorie\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj"
               }
             }
           }
@@ -78,20 +78,20 @@
         }
       }
     },
-    "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
+    "C:\\repositorie\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
+        "projectUniqueName": "C:\\repositorie\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
         "projectName": "HelperStockBeta.Domain",
-        "projectPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
-        "packagesPath": "C:\\Users\\victor.icoma\\.nuget\\packages\\",
-        "outputPath": "C:\\repositorios\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\obj\\",
+        "projectPath": "C:\\repositorie\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\HelperStockBeta.Domain.csproj",
+        "packagesPath": "C:\\Users\\AlunoDSM\\.nuget\\packages\\",
+        "outputPath": "C:\\repositorie\\projetoBase\\HelperStockBeta\\HelperStockBeta.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\victor.icoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AlunoDSM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
